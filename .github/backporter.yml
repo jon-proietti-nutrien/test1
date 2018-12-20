@@ -3,4 +3,5 @@ branches:
   - base: develop
     compare: master
   - base: beta
-    compare: develop1
+    compare: develop
+othersetting: stuff
