@@ -3,4 +3,4 @@ branches:
   - base: develop
     compare: master
   - base: beta
-    compare: develop
+    compare: develop1
