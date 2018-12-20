@@ -4,4 +4,4 @@ branches:
     compare: master
   - base: beta
     compare: develop
-othersetting: Something Different
+othersetting: Something Different13
