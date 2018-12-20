@@ -1,2 +1,6 @@
-test: 3y
-
+startHour: 12
+startMinute: 45
+slackbotURI: "https://hooks.slack.com/services/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"
+branches:
+  - base: develop
+    compare: master
