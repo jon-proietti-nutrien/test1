@@ -1,6 +1,7 @@
-#slackbotURI: "https://hooks.slack.com/services/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"
+slackbotURI: "https://hooks.slack.com/services/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"
 branches:
   - base: develop
     compare: master
   - base: beta
     compare: develop
+othersetting: stuff
